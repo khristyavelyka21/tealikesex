@@ -1,0 +1,22 @@
+{
+  "name": "tealikesex",
+  "version": "1.0.0",
+  "description": "It is fine) my first OSS project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khristyavelyka21/tealikesex.git"
+  },
+  "dependencies": {
+    "tealikelove": "1.0.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/khristyavelyka21/tealikesex/issues"
+  },
+  "homepage": "https://github.com/khristyavelyka21/tealikesex#readme"
+}
